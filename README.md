@@ -9,5 +9,5 @@ Source code for a Movie Trailer website.
 1. Type 'python mediacenter.py'
 
 **IDE**:
-*Open the desired IDE
-*At the menu bar click on 'Run-> Run Module' or press F5 in your keyboard
+1. Open the desired IDE
+1. At the menu bar click on 'Run-> Run Module' or press F5 in your keyboard
